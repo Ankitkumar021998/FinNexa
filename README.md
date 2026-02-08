@@ -1,0 +1,1 @@
+FinNexa is a secure & smart digital banking application that enables users to manage accounts, transfer funds, and track transactions in real time. Built with a full-stack architecture, it ensures smooth performance, strong authentication, and a responsive user experience, showcasing modern FinTech and scalable banking solutions.
